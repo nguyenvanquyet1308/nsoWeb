@@ -1,0 +1,135 @@
+Host: 127.0.0.1 - February 3, 2024, 3:03 pm
+Content: {'username':'admin','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'2','searched_player_username':'hoanad'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 3:04 pm
+Content: {'username':'admin','action':'add_money','ip_address':'127.0.0.1','added_user_id':'2','amount':'50000','currency':'luong'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 5:58 pm
+Content: {'username':'admin','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'9489','searched_player_username':'admin'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 5:58 pm
+Content: {'username':'admin','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'9489','searched_player_username':'admin'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 5:58 pm
+Content: {'username':'admin','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'9489','searched_player_username':'admin'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:01 pm
+Content: {'username':'admin','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'9489','searched_player_username':'admin'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:02 pm
+Content: {'username':'admin','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'9489','searched_player_username':'admin'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:04 pm
+Content: {'username':'admin','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'9489','searched_player_username':'admin'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:05 pm
+Content: {'username':'admin','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'9489','searched_player_username':'admin'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:05 pm
+Content: {'username':'admin','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'9489','searched_player_username':'admin'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:08 pm
+Content: {'username':'admin','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'9489','searched_player_username':'admin'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:08 pm
+Content: {'username':'admin','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'9489','searched_player_username':'admin'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:08 pm
+Content: {'username':'admin','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'9489','searched_player_username':'admin'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:08 pm
+Content: {'username':'admin','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'9488','searched_player_username':'hoanad'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:08 pm
+Content: {'username':'admin','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'9488','searched_player_username':'hoanad'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:08 pm
+Content: {'username':'admin','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'9488','searched_player_username':'hoanad'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:09 pm
+Content: {'username':'admin','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'6','searched_player_username':'nhieu1234'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:11 pm
+Content: {'username':'admin','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'25434','searched_player_username':'admin124'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:12 pm
+Content: {'username':'admin','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'9489','searched_player_username':'admin'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:12 pm
+Content: {'username':'admin','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'9489','searched_player_username':'admin'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:12 pm
+Content: {'username':'admin','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'9488','searched_player_username':'hoanad'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:12 pm
+Content: {'username':'admin','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'9488','searched_player_username':'hoanad'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:12 pm
+Content: {'username':'admin','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'9488','searched_player_username':'hoanad'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:18 pm
+Content: {'username':'admin','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'9489','searched_player_username':'admin'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:20 pm
+Content: {'username':'hoanad','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'13','searched_player_username':'xanh9tai2'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:20 pm
+Content: {'username':'hoanad','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'9489','searched_player_username':'admin'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:21 pm
+Content: {'username':'hoanad','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'13','searched_player_username':'xanh9tai2'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:21 pm
+Content: {'username':'hoanad','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'9488','searched_player_username':'hoanad'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:24 pm
+Content: {'username':'hoanad','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'25435','searched_player_username':'hoanad'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:29 pm
+Content: {'username':'hoanad','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'717','searched_player_username':'vodanh6789'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:32 pm
+Content: {'username':'hoanad','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'717','searched_player_username':'vodanh6789'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:34 pm
+Content: {'username':'hoanad','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'717','searched_player_username':'vodanh6789'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:35 pm
+Content: {'username':'hoanad','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'717','searched_player_username':'vodanh6789'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:41 pm
+Content: {'username':'hoanad','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'717','searched_player_username':'vodanh6789'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:42 pm
+Content: {'username':'hoanad','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'717','searched_player_username':'vodanh6789'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:46 pm
+Content: {'username':'hoanad','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'717','searched_player_username':'vodanh6789'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:47 pm
+Content: {'username':'hoanad','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'717','searched_player_username':'vodanh6789'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:48 pm
+Content: {'username':'hoanad','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'717','searched_player_username':'vodanh6789'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:50 pm
+Content: {'username':'hoanad','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'717','searched_player_username':'vodanh6789'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:53 pm
+Content: {'username':'hoanad','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'717','searched_player_username':'vodanh6789'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:53 pm
+Content: {'username':'hoanad','action':'add_money','ip_address':'127.0.0.1','added_user_id':'717','amount':'5000000','currency':'luong'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:57 pm
+Content: {'username':'hoanad','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'717','searched_player_username':'vodanh6789'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 6:57 pm
+Content: {'username':'hoanad','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'717','searched_player_username':'vodanh6789'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 7:09 pm
+Content: {'username':'hoanad','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'717','searched_player_username':'vodanh6789'}
+-------------------------
+Host: 127.0.0.1 - February 3, 2024, 7:12 pm
+Content: {'username':'hoanad','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'25435','searched_player_username':'hoanad'}
+-------------------------

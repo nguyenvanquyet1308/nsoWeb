@@ -1,0 +1,12 @@
+Host: ::1 - February 21, 2024, 7:08 pm
+Content: {'username':'admin','action':'search_player','ip_address':'::1','searched_player_id':'1','searched_player_username':'admin'}
+-------------------------
+Host: ::1 - February 21, 2024, 7:24 pm
+Content: {'username':'admin','action':'search_player','ip_address':'::1','searched_player_id':'1','searched_player_username':'admin'}
+-------------------------
+Host: ::1 - February 21, 2024, 7:25 pm
+Content: {'username':'admin','action':'search_player','ip_address':'::1','searched_player_id':'1','searched_player_username':'admin'}
+-------------------------
+Host: 127.0.0.1 - February 21, 2024, 9:01 pm
+Content: {'username':'admin','action':'search_player','ip_address':'127.0.0.1','searched_player_id':'1','searched_player_username':'admin'}
+-------------------------
