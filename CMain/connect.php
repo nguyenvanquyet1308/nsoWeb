@@ -2,7 +2,7 @@
 //session_start();
 //config 
 
-$ip_sv = "103.101.161.253";
+$ip_sv = "localhost";
 $dbname_sv = "db_nso";
 $user_sv = "nso";
 $pass_sv = "123456";
