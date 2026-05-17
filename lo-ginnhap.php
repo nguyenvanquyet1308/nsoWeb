@@ -70,17 +70,6 @@ if (file_exists($loginFilePath)) {
         var listInValid = form.querySelectorAll('.invalid-feedback');
         listInput.forEach((item, index) => {
           let val = item.value;
-          if (val.trim().length == 0) {
-            listInValid[index].innerHTML = "Không được để trống";
-            check = false;
-            listInValid[index].classList.add('d-block');
-          } else if (val.trim().length < 5) {
-            listInValid[index].innerHTML = "Tối thiểu 5 ký tự";
-            check = false;
-            listInValid[index].classList.add('d-block');
-          } else {
-            listInValid[index].classList.remove('d-block');
-          }
         });
 
         // If check is true, proceed with form submission using AJAX
