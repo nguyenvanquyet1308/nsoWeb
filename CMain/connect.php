@@ -2,10 +2,10 @@
 //session_start();
 //config 
 
-$ip_sv = "localhost";
-$dbname_sv = "db_shop";
-$user_sv = "root";
-$pass_sv = "";
+$ip_sv = "103.101.161.253";
+$dbname_sv = "db_nso";
+$user_sv = "nso";
+$pass_sv = "123456";
 
 //GMT +7
 
